@@ -10,3 +10,4 @@ A simple CLI-based application in Python to manage student names and marks.
 ## How to Run:
 ```bash
 python main.py
+
